@@ -14,7 +14,8 @@ Make sure you have Docker installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url> example, git clone https://github.com/Trevil1990/SecureNotes.git
+   git clone https://github.com/Trevil1990/SecureNotes.git
+   
    cd SecureNotes
 
 2. Build and start the Docker containers:
