@@ -14,5 +14,20 @@ Make sure you have Docker installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <repository-url> example, git clone https://github.com/Trevil1990/SecureNotes.git
    cd SecureNotes
+
+2. Build and start the Docker containers:
+   docker-compose up --build
+
+3. Access the application:
+Open your web browser and navigate to http://localhost:8080
+
+## Built With
+- **Laravel** - The PHP framework used
+- **Nginx** - Web server
+- **MySQL** - Database
+- **Redis** - In-memory data structure store
+
+## Authors
+- Kyrylo Kovtunenko
